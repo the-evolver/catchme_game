@@ -1,0 +1,33 @@
+/* body{
+    width: 100vw;
+    height: 100vh;
+} */
+
+
+#container{
+
+width: 90vw;
+height: 90vh;
+border: 2px solid sienna;
+box-shadow: 0px 0px 4px 4px rebeccapurple;
+
+
+
+
+
+}
+#catch{
+ width:10vw;
+ height:10vh;
+ background-color: darkcyan;
+  padding:1.8% 0 0 2.5%;
+  position: absolute;
+  color: gainsboro;
+  box-sizing: border-box;
+  font-family:sans-serif;
+  font-size: small;
+  font-weight: lighter;
+  letter-spacing: 2px;
+  
+  
+}
